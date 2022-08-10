@@ -8,7 +8,6 @@
 
 
 ![ThiagoBarbosaRS GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoBarbosaRS&show_icons=true&theme=ocean_dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBarbosaRS)](https://github.com/ThiagoBarbosaRS/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
